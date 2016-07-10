@@ -1,4 +1,5 @@
 # Serverless Workshop
+***Work in Progress***
 
 ## Goal
 Create a Slack slash command that will return a stock price. The implementation will be based on using **Function as a Service** with the help of the **Serverless Framework**. Language used is node.js.
