@@ -41,4 +41,5 @@ For example:
 **TODO: screenshot**
 
 ## Good Reads
+- [Serverless Architectures](http://martinfowler.com/articles/serverless.html) (by Mike Roberts, Martin Fowler's blog)
 - [Serverless resources](https://github.com/bennybauer/Serverless-Resources)
